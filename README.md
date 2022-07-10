@@ -10,4 +10,4 @@ Algorithms used:
 6. Random Forest Regressor
 7. KNeighbors Regressor
 
-Highest Accuracy - Random Forest Regressor 
+Highest Accuracy - Random Forest Regressor [98%]
