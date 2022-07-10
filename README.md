@@ -9,3 +9,5 @@ Algorithms used:
 5. Gradient Boost Regressor
 6. Random Forest Regressor
 7. KNeighbors Regressor
+
+Highest Accuracy - Random Forest Regressor 
